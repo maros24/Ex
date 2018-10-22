@@ -1,0 +1,49 @@
+Student Oleksandr
+{"firstname":"Oleksandr",
+"lastname":"Lubchenko",
+"course":"5",
+"StudentId":"kl4545454",
+"Army":"True",
+"ArmyID":"fg454545",
+"DriverID":"hj454555"};
+
+
+Student petya
+{"firstname":"petya",
+"lastname":"sutnuk",
+"course":"5",
+"StudentId":"jk45451812",
+"Army":"True",
+"ArmyID":"jh584845",
+"DriverID":"null"};
+
+Student misha
+{"firstname":"misha",
+"lastname":"nazarenko",
+"course":"1",
+"StudentId":"jh454548",
+"Army":"False",
+"DriverID":"kj5545154"};
+
+Student vasya
+{"firstname":"vasya",
+"lastname":"Oliynuk",
+"course":"2",
+"StudentId":"kj4845248",
+"Army":"False",
+"DriverID":"fd4545484"};
+
+
+
+
+
+Student misha
+{"firstname":"misha",
+"lastname":"pyatochkin",
+"course":"5",
+"StudentId":"lk4444",
+"Army":"True",
+"ArmyID":"jh484845",
+"DriverID":"kj454554"};
+
+

@@ -1,0 +1,49 @@
+C:\Users\Oleksandr\source\repos\oop_1\oop_1\bin\Debug\oop_1.exe.config
+C:\Users\Oleksandr\source\repos\oop_1\oop_1\bin\Debug\oop_1.exe
+C:\Users\Oleksandr\source\repos\oop_1\oop_1\bin\Debug\oop_1.pdb
+C:\Users\Oleksandr\source\repos\oop_1\oop_1\obj\Debug\oop_1.csprojAssemblyReference.cache
+C:\Users\Oleksandr\source\repos\oop_1\oop_1\obj\Debug\oop_1.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\source\repos\oop_1\oop_1\obj\Debug\oop_1.exe
+C:\Users\Oleksandr\source\repos\oop_1\oop_1\obj\Debug\oop_1.pdb
+D:\programming\vs projects\oop_1\oop_1\obj\Debug\oop_1.csprojAssemblyReference.cache
+D:\programming\vs projects\oop_1\oop_1\obj\Debug\oop_1.csproj.CoreCompileInputs.cache
+D:\programming\vs projects\oop_1\oop_1\obj\Debug\oop_1.exe
+D:\programming\vs projects\oop_1\oop_1\obj\Debug\oop_1.pdb
+D:\programming\vs projects\oop_1\oop_1\bin\Debug\oop_1.exe.config
+D:\programming\vs projects\oop_1\oop_1\bin\Debug\oop_1.exe
+D:\programming\vs projects\oop_1\oop_1\bin\Debug\oop_1.pdb
+D:\programming\vs projects\oop_1\oop_1\bin\Debug\BusinessLogic.dll
+D:\programming\vs projects\oop_1\oop_1\bin\Debug\BusinessLogic.pdb
+D:\programming\vs projects\oop_1\oop_1\obj\Debug\oop_1.csproj.CopyComplete
+D:\programming\vs projects\oop_1\oop_1\bin\Debug\UI.dll
+D:\programming\vs projects\oop_1\oop_1\bin\Debug\UI.pdb
+D:\programming\vs projects\oop_1\oop_1\bin\Debug\DB.dll
+D:\programming\vs projects\oop_1\oop_1\bin\Debug\DB.pdb
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\bin\Debug\oop_1.exe.config
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\bin\Debug\oop_1.exe
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\bin\Debug\oop_1.pdb
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\bin\Debug\BusinessLogic.dll
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\bin\Debug\DB.dll
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\bin\Debug\UI.dll
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\bin\Debug\BusinessLogic.pdb
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\bin\Debug\DB.pdb
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\bin\Debug\UI.pdb
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\obj\Debug\oop_1.csprojAssemblyReference.cache
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\obj\Debug\oop_1.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\obj\Debug\oop_1.csproj.CopyComplete
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\obj\Debug\oop_1.exe
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\oop_1\obj\Debug\oop_1.pdb
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\obj\Debug\oop_1.csprojAssemblyReference.cache
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\obj\Debug\oop_1.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\obj\Debug\oop_1.exe
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\obj\Debug\oop_1.pdb
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\bin\Debug\oop_1.exe.config
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\bin\Debug\oop_1.exe
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\bin\Debug\oop_1.pdb
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\bin\Debug\BusinessLogic.dll
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\bin\Debug\DB.dll
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\bin\Debug\UI.dll
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\bin\Debug\BusinessLogic.pdb
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\bin\Debug\DB.pdb
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\bin\Debug\UI.pdb
+C:\Users\Юрий\Desktop\oop_1\oop_1\oop_1\obj\Debug\oop_1.csproj.CopyComplete

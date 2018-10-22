@@ -1,0 +1,9 @@
+D:\programming\vs projects\oop_1\DBAcess\bin\Debug\DBAcess.dll
+D:\programming\vs projects\oop_1\DBAcess\bin\Debug\DBAcess.pdb
+D:\programming\vs projects\oop_1\DBAcess\obj\Debug\DBAcess.csprojAssemblyReference.cache
+D:\programming\vs projects\oop_1\DBAcess\obj\Debug\DBAcess.csproj.CoreCompileInputs.cache
+D:\programming\vs projects\oop_1\DBAcess\obj\Debug\DBAcess.dll
+D:\programming\vs projects\oop_1\DBAcess\obj\Debug\DBAcess.pdb
+D:\programming\vs projects\oop_1\DBAcess\bin\Debug\BusinessLogic.dll
+D:\programming\vs projects\oop_1\DBAcess\bin\Debug\BusinessLogic.pdb
+D:\programming\vs projects\oop_1\DBAcess\obj\Debug\DBAcess.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\programming\vs projects\oop_1\DB\bin\Debug\DB.dll
+D:\programming\vs projects\oop_1\DB\bin\Debug\DB.pdb
+D:\programming\vs projects\oop_1\DB\obj\Debug\DB.csprojAssemblyReference.cache
+D:\programming\vs projects\oop_1\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+D:\programming\vs projects\oop_1\DB\obj\Debug\DB.dll
+D:\programming\vs projects\oop_1\DB\obj\Debug\DB.pdb
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\DB\bin\Debug\DB.dll
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\DB\bin\Debug\DB.pdb
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\DB\obj\Debug\DB.csprojAssemblyReference.cache
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\DB\obj\Debug\DB.dll
+C:\Users\Юрий\Downloads\Telegram Desktop\oop_1\oop_1\DB\obj\Debug\DB.pdb
